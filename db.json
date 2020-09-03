@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "title": "newk",
+      "description": "posty",
+      "id": "012dae04-296b-4ad4-b935-271f53a03c82",
+      "claps": 0,
+      "createdAt": "2020-09-03T21:51:25.411Z",
+      "updatedAt": "2020-09-03T21:55:33.962Z",
+      "userId": 1
+    },
+    {
+      "title": "own post",
+      "description": "fendery",
+      "id": "d69aa1ae-c7f4-4b3f-aa6d-fd125a0ba464",
+      "claps": 2,
+      "createdAt": "2020-09-03T21:51:37.458Z",
+      "updatedAt": "2020-09-03T21:55:37.865Z",
+      "userId": 1
+    }
+  ]
+}
