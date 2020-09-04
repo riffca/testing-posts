@@ -15,21 +15,120 @@
   ],
   "posts": [
     {
-      "title": "newk",
-      "description": "posty",
-      "id": "012dae04-296b-4ad4-b935-271f53a03c82",
-      "claps": 0,
-      "createdAt": "2020-09-03T21:51:25.411Z",
-      "updatedAt": "2020-09-03T21:55:33.962Z",
-      "userId": 1
-    },
-    {
       "title": "own post",
       "description": "fendery",
       "id": "d69aa1ae-c7f4-4b3f-aa6d-fd125a0ba464",
       "claps": 2,
       "createdAt": "2020-09-03T21:51:37.458Z",
       "updatedAt": "2020-09-03T21:55:37.865Z",
+      "userId": 1
+    },
+    {
+      "title": "new ",
+      "description": "post",
+      "id": "5d4273c2-be70-4cf8-80a0-79416420cc08",
+      "createdAt": "2020-09-04T09:04:44.463Z",
+      "claps": 3,
+      "updatedAt": "2020-09-04T09:04:44.463Z",
+      "userId": 1
+    },
+    {
+      "title": "exellent ",
+      "description": "post",
+      "id": "bc1be4bd-9e6a-4c8b-a27f-49d754b20c91",
+      "createdAt": "2020-09-04T09:04:58.735Z",
+      "claps": 3,
+      "updatedAt": "2020-09-04T09:04:58.735Z",
+      "userId": 1
+    },
+    {
+      "title": "create",
+      "description": "post",
+      "id": "a60dc362-a341-4e15-9d76-16b81b89845f",
+      "createdAt": "2020-09-04T09:05:10.591Z",
+      "claps": 0,
+      "updatedAt": "2020-09-04T09:05:10.591Z",
+      "userId": 1
+    },
+    {
+      "title": "delete",
+      "description": "post",
+      "id": "56e0b1b6-842f-4471-bccb-483f4372e41e",
+      "createdAt": "2020-09-04T09:05:15.695Z",
+      "claps": 0,
+      "updatedAt": "2020-09-04T09:05:15.695Z",
+      "userId": 1
+    },
+    {
+      "title": "himor",
+      "description": "post",
+      "id": "5efcefda-63b4-48bc-bacf-ff1d95b2f163",
+      "createdAt": "2020-09-04T09:05:20.406Z",
+      "claps": 0,
+      "updatedAt": "2020-09-04T09:05:20.406Z",
+      "userId": 1
+    },
+    {
+      "title": "feel ",
+      "description": "post",
+      "id": "e072223d-78b3-4ca6-a93b-52742c848b32",
+      "createdAt": "2020-09-04T09:05:35.446Z",
+      "claps": 0,
+      "updatedAt": "2020-09-04T09:05:35.446Z",
+      "userId": 1
+    },
+    {
+      "title": "green ",
+      "description": "post",
+      "id": "717a51e5-ab77-4b9d-9bbb-5e07331bbf4a",
+      "createdAt": "2020-09-04T09:05:45.638Z",
+      "claps": 0,
+      "updatedAt": "2020-09-04T09:05:45.638Z",
+      "userId": 1
+    },
+    {
+      "title": "play",
+      "description": "game",
+      "id": "3b49d02d-edc7-41e4-b2bd-7fd004295ecf",
+      "createdAt": "2020-09-04T09:05:51.478Z",
+      "claps": 4,
+      "updatedAt": "2020-09-04T09:05:51.478Z",
+      "userId": 1
+    },
+    {
+      "title": "train",
+      "description": "brain",
+      "id": "8b28d708-9015-447b-b10c-66d83833b8ec",
+      "createdAt": "2020-09-04T09:05:57.942Z",
+      "claps": 0,
+      "updatedAt": "2020-09-04T09:05:57.942Z",
+      "userId": 1
+    },
+    {
+      "title": "save",
+      "description": "data",
+      "id": "34a04122-ef31-4e9b-ab40-b833b6d12469",
+      "createdAt": "2020-09-04T09:06:03.326Z",
+      "claps": 0,
+      "updatedAt": "2020-09-04T09:06:03.326Z",
+      "userId": 1
+    },
+    {
+      "title": "egg",
+      "description": "head",
+      "id": "2fd6d818-f3f0-49dd-b082-a9b72df426bd",
+      "createdAt": "2020-09-04T09:06:10.262Z",
+      "claps": 5,
+      "updatedAt": "2020-09-04T09:06:10.262Z",
+      "userId": 1
+    },
+    {
+      "title": "true",
+      "description": "post",
+      "id": "0a0f3846-6aae-44fc-b7a5-8b49c5f9fce9",
+      "createdAt": "2020-09-04T09:08:44.111Z",
+      "claps": 4,
+      "updatedAt": "2020-09-04T09:08:44.111Z",
       "userId": 1
     }
   ]

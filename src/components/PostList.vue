@@ -96,7 +96,7 @@ export default {
 	},
 	methods: {
 		clap(post){
-			if(this.authUser.login){
+			if(this.authUser.login && this.authUser.role==='reader'){
 				this.$store.dispatch('incClap', post)
 			}
 			

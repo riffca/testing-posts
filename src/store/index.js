@@ -46,6 +46,7 @@ export default new Vuex.Store({
 		},
 		'add-post'(state,val){
 			state.posts.unshift(val)
+			state.maxPosts++
 		},				
 		'rewrite-posts'(state,val){
 			state.posts = val 
